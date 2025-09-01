@@ -1,4 +1,4 @@
-# arXiv CV Daily Report (2025-08-31)
+# arXiv CV Daily Report (2025-09-01)
 ### Top 20 CV Papers
 | Date | Title | Authors | PDF |
 |------|-------|---------|-----|
