@@ -1,31 +1,36 @@
-# arXiv CV Daily Report (2025-09-06)
+# arXiv CV Daily Report (2025-09-11)
 ### Top 20 CV Papers
 | Date | Title | Authors | PDF |
 |------|-------|---------|-----|
-| 2025-09-04 | Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview | Jun-Kun Chen, Aayush Bansal, Minh Phuoc Vo, Yu-Xiong Wang | [PDF](http://arxiv.org/pdf/2509.04450v1) |
-| 2025-09-04 | TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection | Zehong Yan, Peng Qi, Wynne Hsu, Mong Li Lee | [PDF](http://arxiv.org/pdf/2509.04448v1) |
-| 2025-09-04 | Plot'n Polish: Zero-shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models | Kiymet Akdemir, Jing Shi, Kushal Kafle, Brian Price, Pinar Yanardag | [PDF](http://arxiv.org/pdf/2509.04446v1) |
-| 2025-09-04 | One Flight Over the Gap: A Survey from Perspective to Panoramic Vision | Xin Lin, Xian Ge, Dizhe Zhang, Zhaoliang Wan, Xianshun Wang, Xiangtai Li, Wenjie Jiang, Bo Du, Dacheng Tao, Ming-Hsuan Yang, Lu Qi | [PDF](http://arxiv.org/pdf/2509.04444v1) |
-| 2025-09-04 | DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation | Hao-Shu Fang, Branden Romero, Yichen Xie, Arthur Hu, Bo-Ruei Huang, Juan Alvarez, Matthew Kim, Gabriel Margolis, Kavya Anbarasu, Masayoshi Tomizuka, Edward Adelson, Pulkit Agrawal | [PDF](http://arxiv.org/pdf/2509.04441v1) |
-| 2025-09-04 | The Telephone Game: Evaluating Semantic Drift in Unified Models | Sabbir Mollah, Rohit Gupta, Sirnam Swetha, Qingyang Liu, Ahnaf Munir, Mubarak Shah | [PDF](http://arxiv.org/pdf/2509.04438v1) |
-| 2025-09-04 | From Lines to Shapes: Geometric-Constrained Segmentation of X-Ray Collimators via Hough Transform | Benjamin El-Zein, Dominik Eckert, Andreas Fieselmann, Christopher Syben, Ludwig Ritschl, Steffen Kappler, Sebastian Stober | [PDF](http://arxiv.org/pdf/2509.04437v1) |
-| 2025-09-04 | Durian: Dual Reference-guided Portrait Animation with Attribute Transfer | Hyunsoo Cha, Byungjun Kim, Hanbyul Joo | [PDF](http://arxiv.org/pdf/2509.04434v1) |
-| 2025-09-04 | Few-step Flow for 3D Generation via Marginal-Data Transport Distillation | Zanwei Zhou, Taoran Yi, Jiemin Fang, Chen Yang, Lingxi Xie, Xinggang Wang, Wei Shen, Qi Tian | [PDF](http://arxiv.org/pdf/2509.04406v1) |
-| 2025-09-04 | Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios | Jingen Qu, Lijun Li, Bo Zhang, Yichen Yan, Jing Shao | [PDF](http://arxiv.org/pdf/2509.04403v1) |
-| 2025-09-04 | Learning neural representations for X-ray ptychography reconstruction with unknown probes | Tingyou Li, Zixin Xu, Zirui Gao, Hanfei Yan, Xiaojing Huang, Jizhou Li | [PDF](http://arxiv.org/pdf/2509.04402v1) |
-| 2025-09-04 | Transition Models: Rethinking the Generative Learning Objective | Zidong Wang, Yiyuan Zhang, Xiaoyu Yue, Xiangyu Yue, Yangguang Li, Wanli Ouyang, Lei Bai | [PDF](http://arxiv.org/pdf/2509.04394v1) |
-| 2025-09-04 | SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer | Jimin Xu, Bosheng Qin, Tao Jin, Zhou Zhao, Zhenhui Ye, Jun Yu, Fei Wu | [PDF](http://arxiv.org/pdf/2509.04379v1) |
-| 2025-09-04 | Aesthetic Image Captioning with Saliency Enhanced MLLMs | Yilin Tao, Jiashui Huang, Huaze Xu, Ling Shao | [PDF](http://arxiv.org/pdf/2509.04378v1) |
-| 2025-09-04 | AnomalyLMM: Bridging Generative Knowledge and Discriminative Retrieval for Text-Based Person Anomaly Search | Hao Ju, Hu Zhang, Zhedong Zheng | [PDF](http://arxiv.org/pdf/2509.04376v1) |
-| 2025-09-04 | Stitching the Story: Creating Panoramic Incident Summaries from Body-Worn Footage | Dor Cohen, Inga Efrosman, Yehudit Aperstein, Alexander Apartsin | [PDF](http://arxiv.org/pdf/2509.04370v1) |
-| 2025-09-04 | Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking | Dror Aiger, Bingyi Cao, Kaifeng Chen, Andre Araujo | [PDF](http://arxiv.org/pdf/2509.04351v1) |
-| 2025-09-04 | MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition | Feng-Qi Cui, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu | [PDF](http://arxiv.org/pdf/2509.04344v1) |
-| 2025-09-04 | From Editor to Dense Geometry Estimator | JiYuan Wang, Chunyu Lin, Lei Sun, Rongying Liu, Lang Nie, Mingxing Li, Kang Liao, Xiangxiang Chu, Yao Zhao | [PDF](http://arxiv.org/pdf/2509.04338v1) |
-| 2025-09-04 | GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization | Pengyue Jia, Yingyi Zhang, Xiangyu Zhao, Yixuan Li | [PDF](http://arxiv.org/pdf/2509.04334v1) |
+| 2025-09-09 | CAViAR: Critic-Augmented Video Agentic Reasoning | Sachit Menon, Ahmet Iscen, Arsha Nagrani, Tobias Weyand, Carl Vondrick, Cordelia Schmid | [PDF](http://arxiv.org/pdf/2509.07680v1) |
+| 2025-09-09 | Visual Representation Alignment for Multimodal Large Language Models | Heeji Yoon, Jaewoo Jung, Junwan Kim, Hyungyu Choi, Heeseong Shin, Sangbeom Lim, Honggyu An, Chaehyun Kim, Jisang Han, Donghyun Kim, Chanho Eom, Sunghwan Hong, Seungryong Kim | [PDF](http://arxiv.org/pdf/2509.07979v1) |
+| 2025-09-09 | One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation | Zheng Geng, Nan Wang, Shaocong Xu, Chongjie Ye, Bohan Li, Zhaoxi Chen, Sida Peng, Hao Zhao | [PDF](http://arxiv.org/pdf/2509.07978v1) |
+| 2025-09-09 | Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search | Xin Lai, Junyi Li, Wei Li, Tao Liu, Tianjian Li, Hengshuang Zhao | [PDF](http://arxiv.org/pdf/2509.07969v1) |
+| 2025-09-09 | Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images | Boammani Aser Lompo, Marc Haraoui | [PDF](http://arxiv.org/pdf/2509.07966v1) |
+| 2025-09-09 | Feature Space Analysis by Guided Diffusion Model | Kimiaki Shirahama, Miki Yanobu, Kaduki Yamashita, Miho Ohsaki | [PDF](http://arxiv.org/pdf/2509.07936v1) |
+| 2025-09-09 | Dynamic Scene 3D Reconstruction of an Uncooperative Resident Space Object | Bala Prenith Reddy Gopu, Timothy Jacob Huber, George M. Nehma, Patrick Quinn, Madhur Tiwari, Matt Ueckermann, David Hinckley, Christopher McKenna | [PDF](http://arxiv.org/pdf/2509.07932v1) |
+| 2025-09-09 | Accelerating Local AI on Consumer GPUs: A Hardware-Aware Dynamic Strategy for YOLOv10s | Mahmudul Islam Masum, Miad Islam, Arif I. Sarwat | [PDF](http://arxiv.org/pdf/2509.07928v1) |
+| 2025-09-09 | Multimodal Contrastive Pretraining of CBCT and IOS for Enhanced Tooth Segmentation | Moo Hyun Son, Juyoung Bae, Zelin Qiu, Jiale Peng, Kai Xin Li, Yifan Lin, Hao Chen | [PDF](http://arxiv.org/pdf/2509.07923v1) |
+| 2025-09-09 | ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion | Ao Li, Jinpeng Liu, Yixuan Zhu, Yansong Tang | [PDF](http://arxiv.org/pdf/2509.07920v1) |
+| 2025-09-09 | Object-level Correlation for Few-Shot Segmentation | Chunlin Wen, Yu Zhang, Jie Fan, Hongyuan Zhu, Xiu-Shen Wei, Yijun Wang, Zhiqiang Kou, Shuzhou Sun | [PDF](http://arxiv.org/pdf/2509.07917v1) |
+| 2025-09-09 | Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning | Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana, Javier Ortega-Garcia | [PDF](http://arxiv.org/pdf/2509.07879v1) |
+| 2025-09-09 | D-LEAF: Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics | Tiancheng Yang, Lin Zhang, Jiaye Lin, Guimin Hu, Di Wang, Lijie Hu | [PDF](http://arxiv.org/pdf/2509.07864v1) |
+| 2025-09-09 | Deep Learning-Based Burned Area Mapping Using Bi-Temporal Siamese Networks and AlphaEarth Foundation Datasets | Seyd Teymoor Seydi | [PDF](http://arxiv.org/pdf/2509.07852v1) |
+| 2025-09-09 | Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model | Zhuoxu Huang, Mingqi Gao, Jungong Han | [PDF](http://arxiv.org/pdf/2509.07825v1) |
+| 2025-09-09 | SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting | Mahtab Dahaghin, Milind G. Padalkar, Matteo Toso, Alessio Del Bue | [PDF](http://arxiv.org/pdf/2509.07809v1) |
+| 2025-09-09 | Faster, Self-Supervised Super-Resolution for Anisotropic Multi-View MRI Using a Sparse Coordinate Loss | Maja Schlereth, Moritz Schillinger, Katharina Breininger | [PDF](http://arxiv.org/pdf/2509.07798v1) |
+| 2025-09-09 | Enhanced SegNet with Integrated Grad-CAM for Interpretable Retinal Layer Segmentation in OCT Images | S M Asiful Islam Saky, Ugyen Tshering | [PDF](http://arxiv.org/pdf/2509.07795v1) |
+| 2025-09-09 | RayGaussX: Accelerating Gaussian-Based Ray Marching for Real-Time and High-Quality Novel View Synthesis | Hugo Blanc, Jean-Emmanuel Deschaud, Alexis Paljic | [PDF](http://arxiv.org/pdf/2509.07782v1) |
+| 2025-09-09 | HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting | Yimin Pan, Matthias Nießner, Tobias Kirschstein | [PDF](http://arxiv.org/pdf/2509.07774v1) |
 
 ### Video Generation Papers
 | Date | Title | Authors | PDF |
 |------|-------|---------|-----|
+| 2025-09-09 | ANYPORTAL: Zero-Shot Consistent Video Background Replacement | Wenshuo Gao, Xicheng Lan, Shuai Yang | [PDF](http://arxiv.org/pdf/2509.07472v1) |
+| 2025-09-08 | Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training | Ruicheng Zhang, Jun Zhou, Zunnan Xu, Zihao Liu, Jiehui Huang, Mingyang Zhang, Yu Sun, Xiu Li | [PDF](http://arxiv.org/pdf/2509.06723v1) |
+| 2025-09-07 | UniVerse-1: Unified Audio-Video Generation via Stitching of Experts | Duomin Wang, Wei Zuo, Aojie Li, Ling-Hao Chen, Xinyao Liao, Deyu Zhou, Zixin Yin, Xili Dai, Daxin Jiang, Gang Yu | [PDF](http://arxiv.org/pdf/2509.06155v1) |
+| 2025-09-07 | BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models | Yuming Li, Yikai Wang, Yuying Zhu, Zhongyu Zhao, Ming Lu, Qi She, Shanghang Zhang | [PDF](http://arxiv.org/pdf/2509.06040v3) |
+| 2025-09-07 | Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching | Feng Wang, Zihao Yu | [PDF](http://arxiv.org/pdf/2509.05952v2) |
 | 2025-09-04 | Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview | Jun-Kun Chen, Aayush Bansal, Minh Phuoc Vo, Yu-Xiong Wang | [PDF](http://arxiv.org/pdf/2509.04450v1) |
 | 2025-09-04 | Human Motion Video Generation: A Survey | Haiwei Xue, Xiangyang Luo, Zhanghao Hu, Xin Zhang, Xunzhi Xiang, Yuqin Dai, Jianzhuang Liu, Zhensong Zhang, Minglei Li, Jian Yang, Fei Ma, Zhiyong Wu, Changpeng Yang, Zonghong Dai, Fei Richard Yu | [PDF](http://arxiv.org/pdf/2509.03883v1) |
 | 2025-09-01 | Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement | Jiayi Gao, Changcheng Hua, Qingchao Chen, Yuxin Peng, Yang Liu | [PDF](http://arxiv.org/pdf/2509.01362v1) |
@@ -41,8 +46,3 @@
 | 2025-08-26 | ROSE: Remove Objects with Side Effects in Videos | Chenxuan Miao, Yutong Feng, Jianshu Zeng, Zixiang Gao, Hantang Liu, Yunfeng Yan, Donglian Qi, Xi Chen, Bin Wang, Hengshuang Zhao | [PDF](http://arxiv.org/pdf/2508.18633v1) |
 | 2025-08-26 | Wan-S2V: Audio-Driven Cinematic Video Generation | Xin Gao, Li Hu, Siqi Hu, Mingyang Huang, Chaonan Ji, Dechao Meng, Jinwei Qi, Penchong Qiao, Zhen Shen, Yafei Song, Ke Sun, Linrui Tian, Guangyuan Wang, Qi Wang, Zhongjian Wang, Jiayu Xiao, Sheng Xu, Bang Zhang, Peng Zhang, Xindi Zhang, Zhe Zhang, Jingren Zhou, Lian Zhuo | [PDF](http://arxiv.org/pdf/2508.18621v1) |
 | 2025-08-24 | A Synthetic Dataset for Manometry Recognition in Robotic Applications | Pedro Antonio Rabelo Saraiva, Enzo Ferreira de Souza, Joao Manoel Herrera Pinheiro, Thiago H. Segreto, Ricardo V. Godoy, Marcelo Becker | [PDF](http://arxiv.org/pdf/2508.17468v1) |
-| 2025-08-24 | MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling | Haoyu Wang, Hao Tang, Donglin Di, Zhilu Zhang, Wangmeng Zuo, Feng Gao, Siwei Ma, Shiliang Zhang | [PDF](http://arxiv.org/pdf/2508.17404v1) |
-| 2025-08-24 | DiCache: Let Diffusion Model Determine Its Own Cache | Jiazi Bu, Pengyang Ling, Yujie Zhou, Yibin Wang, Yuhang Zang, Tong Wu, Dahua Lin, Jiaqi Wang | [PDF](http://arxiv.org/pdf/2508.17356v1) |
-| 2025-08-23 | SSG-Dit: A Spatial Signal Guided Framework for Controllable Video Generation | Peng Hu, Yu Gu, Liang Luo, Fuji Ren | [PDF](http://arxiv.org/pdf/2508.17062v1) |
-| 2025-08-23 | HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching | Liang Feng, Shikang Zheng, Jiacheng Liu, Yuqi Lin, Qinming Zhou, Peiliang Cai, Xinyu Wang, Junjie Chen, Chang Zou, Yue Ma, Linfeng Zhang | [PDF](http://arxiv.org/pdf/2508.16984v1) |
-| 2025-08-23 | HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation | Sizhe Shan, Qiulin Li, Yutao Cui, Miles Yang, Yuehai Wang, Qun Yang, Jin Zhou, Zhao Zhong | [PDF](http://arxiv.org/pdf/2508.16930v1) |
